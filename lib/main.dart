@@ -2,6 +2,8 @@ import 'package:flutter/material.dart';
 
 void main() {
   runApp(const MyApp());
+  // sign up - by sadman
+  // Login...by Mohiuddin
 }
 
 class MyApp extends StatelessWidget {
